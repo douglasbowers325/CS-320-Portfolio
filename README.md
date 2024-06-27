@@ -1,1 +1,10 @@
 # CS-320-Portfolio
+
+# How can I ensure that my code, program, or software is functional and secure?
+To ensure that my code, program, or software is functional and secure, a developer should work in an environment that promotes secure patterns and security best practices. This should be done through environmental notifications to gaurantee that the code, programs, or software is both functional and secure. Their choice of programming language and framework should also match the demands and needs of the project and their organization. Developers should be aware of the advantages and disadvatages of the langauge they have chosen to ensure that it is the best fit. They should also adopt and automate security best practices to ensure a smooth development process. Security scans should be done through the normal course of development to ensure that there are no issues that could be missed.
+
+# How do I interpret user needs and incorporate them into a program?
+User needs are the provided specifications given to us to enhance the user's experiences with a product that will match their expectations. We must be aware of the processes where comsumers comprehend their issues, objectives, and preferences to be included into the final product. User needs gives us a guideline to follow, which means there should be focus on functionality, accessibility, and features. User requirements should be gathered, implementation strategies should be looked at, and any additional features should be added to enhance the user's experience.
+
+# How do I approach designing software?
+When approaching software design, I like to focus more on a top-down technique. This is where each system is broken down into several subsystems and components that are easier to manage. Each of these subsystems are then broken down into groups of realted subsystems and components. The division allows for a hierarchy to be created, making it easier to follow and develop. There is also more focus on requirements, making design more responsive in accodance with the criteria.
